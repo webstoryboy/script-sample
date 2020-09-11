@@ -8,4 +8,4 @@ https://webstoryboy.github.io/script-sample/imageEffect/imageEffect01-javascript
 
 
 패랠랙스 이펙트 1번 제이쿼리
-https://webstoryboy.github.io/script-sample/script-sample/parallaxEffect/parallax01.html
+https://webstoryboy.github.io/script-sample/parallaxEffect/parallax01.html
