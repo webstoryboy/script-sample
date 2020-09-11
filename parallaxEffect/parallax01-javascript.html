@@ -529,6 +529,27 @@
             } else {
                 document.getElementById("section9").classList.remove("show");
             }
+
+            //한번에
+            // for (let i = 1; i <= 9; i++) {
+            //     document.querySelector(".s" + i + "OT").textContent = document.getElementById("section" + i).offsetTop;
+
+            //     if (pageYOffset > document.getElementById("section" + i).offsetTop) {
+            //         document.querySelector(".s" + i + "OT").style.color = "red";
+            //     } else {
+            //         document.querySelector(".s" + i + "OT").style.color = "black";
+            //     }
+            // }
+
+            //한번에
+            // document.querySelectorAll(".content-item").forEach(elem => {
+            //     console.log(elem.offsetTop);
+            //     if (pageYOffset > elem.offsetTop) {
+            //         elem.classList.add("show");
+            //     } else {
+            //         elem.classList.remove("show");
+            //     }
+            // });
         });
     </script>
 </body>

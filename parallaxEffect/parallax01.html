@@ -495,6 +495,26 @@
             if( scrollTop >  $("#section9").offset().top ){
                 $("#section9").addClass("show");
             }
+
+            //한번에(출력용)
+            // for (let i = 1; i <= 9; i++) {
+            //     $(".s" + i + "OT").text(parseInt($("#section" + i).offset().top));
+
+            //     if (scrollTop > parseInt($("#section" + i).offset().top)) {
+            //         $(".s" + i + "OT").css("color", "red");
+            //     } else {
+            //         $(".s" + i + "OT").css("color", "white");
+            //     }
+            // }
+
+            //한번에
+            // $(".content-item").each(function () {
+            //     if (scrollTop > $(this).offset().top) {
+            //         $(this).addClass("show");
+            //     } else {
+            //         $(this).removeClass("show");
+            //     }
+            // });
         });
     </script>
 </body>
