@@ -22,6 +22,9 @@ https://webstoryboy.github.io/script-sample/imageEffect/imageEffect01-javascript
 마우스 이펙트 5번 <br>
 제이쿼리 : https://webstoryboy.github.io/script-sample/mouseEffect/mouse05.html <br>
 자바스크립트 : https://webstoryboy.github.io/script-sample/mouseEffect/mouse05-javascript.html<br>
+마우스 이펙트 6번 <br>
+제이쿼리 : https://webstoryboy.github.io/script-sample/mouseEffect/mouse06.html <br>
+자바스크립트 : https://webstoryboy.github.io/script-sample/mouseEffect/mouse06-javascript.html<br>
 
 
 <br><br><br>
